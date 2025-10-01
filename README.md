@@ -9,8 +9,6 @@
 
 in progress
 
----
-
 ## 🚀 Pedro Project Repositories
 
 🔧 Each Pedro repository serves a specific role in the ecosystem:
@@ -28,3 +26,7 @@ in progress
   🎓 Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
 ---
+
+</br>
+
+> Made with ❤️ by [@almtzr](https://github.com/almtzr)
