@@ -1,4 +1,4 @@
-# PedroSTEM
+# 📂 Pedro STEM
 
 <div align="center">
   <img src="img/pedro_stem.png" alt="Pedro STEM"
