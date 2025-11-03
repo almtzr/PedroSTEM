@@ -16,7 +16,7 @@ Each Pedro repository serves a specific role in the ecosystem:
 ## STEM Lessons
 
 * [Lesson n°1: Discover Robotics by Building Pedro](https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf)
-* [Lesson n°2: Explore the Various Control Modes](https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_2.pdf) (work in progress...)
+* [Lesson n°2: Explore the Various Control Modes](https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_2.pdf)
 * [Lesson n°3: Manual Mode](https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_3.pdf) (work in progress...)
 * [Lesson n°4: Record & Replay Mode](https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_4.pdf) (work in progress...)
 * [Lesson n°5: Radio Mode](https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_5.pdf) (work in progress...)
