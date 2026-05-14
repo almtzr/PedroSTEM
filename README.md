@@ -7,6 +7,6 @@ Each Pedro repository serves a specific role in the ecosystem:
 * 📂 [`Pedro STEM`](https://github.com/almtzr/PedroSTEM): Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
 # 📂 `Pedro STEM`
-## STEM Lessons available on the [`stem_lessons`](https://github.com/almtzr/PedroSTEM/stem_lessons)
+## STEM Lessons available on the [`stem_lessons`](https://github.com/almtzr/PedroSTEM/tree/main/stem_lessons)
 
 
