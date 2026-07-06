@@ -10,3 +10,6 @@ Each Pedro repository serves a specific role in the ecosystem:
 ## STEM Lessons available on the [`stem_lessons`](https://github.com/almtzr/PedroSTEM/tree/main/stem_lessons)
 
 
+<div align="left">
+    <img src="img/Lesson_1_v2.png" width="45%">
+</div>
