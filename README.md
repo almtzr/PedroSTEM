@@ -7,9 +7,42 @@ Each Pedro repository serves a specific role in the ecosystem:
 * 📂 [`Pedro STEM`](https://github.com/almtzr/PedroSTEM): Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
 # 📂 `Pedro STEM`
-## STEM Lessons available on the [`stem_lessons`](https://github.com/almtzr/PedroSTEM/tree/main/stem_lessons)
 
+## Complete all 10 Pedro STEM Lessons, collect every Pedro Badge, and become an official PEDRO MAKER! 🏆
 
 <div align="left">
-    <img src="img/Lesson_1_v2.png" width="45%">
+     <img src="img/pedro_maker.png" width="30%">
+</div>
+
+<div align="left">
+     <img src="img/passeport_pedro.png" width="100%">
+</div>
+
+## STEM Lessons available on the [`stem_lessons`](https://github.com/almtzr/PedroSTEM/tree/main/stem_lessons)
+
+<div align="left">
+    <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf?v=20260706">
+        <img src="img/Lesson_1_v2.png" width="45%">
+    </a>
+    <img src="img/Lesson_2_wp.png" width="45%">
+</div>
+
+<div align="left">
+    <img src="img/Lesson_3_wp.png" width="45%">
+    <img src="img/Lesson_4_wp.png" width="45%">
+</div>
+
+<div align="left">
+    <img src="img/Lesson_5_wp.png" width="45%">
+    <img src="img/Lesson_6_wp.png" width="45%">
+</div>
+
+<div align="left">
+    <img src="img/Lesson_7_wp.png" width="45%">
+    <img src="img/Lesson_8_wp.png" width="45%">
+</div>
+
+<div align="left">
+    <img src="img/Lesson_9_wp.png" width="45%">
+    <img src="img/Lesson_10_wp.png" width="45%">
 </div>
