@@ -22,7 +22,7 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 <div align="left">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf?v=20260708">
-        <img src="img/Lesson_1_v2.png" width="45%">
+        <img src="img/Lesson_1_v3.png" width="45%">
     </a>
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_2.pdf?v=20260708">
         <img src="img/Lesson_2_v1.png" width="45%">
