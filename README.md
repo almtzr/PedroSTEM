@@ -21,10 +21,12 @@ Each Pedro repository serves a specific role in the ecosystem:
 ## STEM Lessons available on the [`stem_lessons`](https://github.com/almtzr/PedroSTEM/tree/main/stem_lessons)
 
 <div align="left">
-    <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf?v=20260706">
+    <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf?v=20260708">
         <img src="img/Lesson_1_v2.png" width="45%">
     </a>
-    <img src="img/Lesson_2_wp.png" width="45%">
+    <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_2.pdf?v=20260708">
+        <img src="img/Lesson_2_v1.png" width="45%">
+    </a>
 </div>
 
 <div align="left">
