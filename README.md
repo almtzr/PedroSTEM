@@ -35,7 +35,7 @@ Each Pedro repository serves a specific role in the ecosystem:
 </div>
 
 <div align="left">
-    <img src="img/Lesson_5_wp.png" width="45%">
+    <img src="img/Lesson_5_v1.png" width="45%">
     <img src="img/Lesson_6_wp.png" width="45%">
 </div>
 
