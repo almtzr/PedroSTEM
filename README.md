@@ -10,18 +10,18 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 ## Complete all 10 Pedro STEM Lessons, collect every Pedro Badge, and become an official PEDRO MAKER! 🏆
 
-<div align="left">
+<div align="center">
      <img src="img/pedro_maker.png" width="30%">
 </div>
 
-<div align="left">
+<div align="center">
      <img src="img/passeport_pedro.png" width="100%">
 </div>
 
 <br>
 <br>
 
-<div align="left">
+<div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf?v=20260725">
         <img src="img/Lesson_1_v3.png" width="45%">
     </a>
@@ -30,7 +30,7 @@ Each Pedro repository serves a specific role in the ecosystem:
     </a>
 </div>
 
-<div align="left">
+<div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_3.pdf?v=20260725">
         <img src="img/Lesson_3_v1.png" width="45%">
     </a>
@@ -39,7 +39,7 @@ Each Pedro repository serves a specific role in the ecosystem:
     </a>
 </div>
 
-<div align="left">
+<div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_5.pdf?v=20260725">
         <img src="img/Lesson_5_v1.png" width="45%">
     </a>
@@ -48,7 +48,7 @@ Each Pedro repository serves a specific role in the ecosystem:
     </a>
 </div>
 
-<div align="left">
+<div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_7.pdf?v=20260725">
         <img src="img/Lesson_7_v1.png" width="45%">
     </a>
@@ -57,7 +57,7 @@ Each Pedro repository serves a specific role in the ecosystem:
     </a>
 </div>
 
-<div align="left">
+<div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_9.pdf?v=20260725">
         <img src="img/Lesson_9_v2.png" width="45%">
     </a>
