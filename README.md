@@ -15,7 +15,7 @@ Each Pedro repository serves a specific role in the ecosystem:
 </div>
 
 <div align="center">
-     <img src="img/passeport_pedro.png" width="100%">
+     <img src="img/pedro_passport.png" width="100%">
 </div>
 
 <br>
@@ -23,45 +23,45 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 <div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_1.pdf?v=20260725">
-        <img src="img/Lesson_1_v3.png" width="45%">
+        <img src="img/Lesson_1.png" width="45%">
     </a>
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_2.pdf?v=20260725">
-        <img src="img/Lesson_2_v1.png" width="45%">
+        <img src="img/Lesson_2.png" width="45%">
     </a>
 </div>
 
 <div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_3.pdf?v=20260725">
-        <img src="img/Lesson_3_v1.png" width="45%">
+        <img src="img/Lesson_3.png" width="45%">
     </a>
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_4.pdf?v=20260725">
-        <img src="img/Lesson_4_v1.png" width="45%">
+        <img src="img/Lesson_4.png" width="45%">
     </a>
 </div>
 
 <div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_5.pdf?v=20260725">
-        <img src="img/Lesson_5_v1.png" width="45%">
+        <img src="img/Lesson_5.png" width="45%">
     </a>
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_6.pdf?v=20260725">
-        <img src="img/Lesson_6_v1.png" width="45%">
+        <img src="img/Lesson_6.png" width="45%">
     </a>
 </div>
 
 <div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_7.pdf?v=20260725">
-        <img src="img/Lesson_7_v1.png" width="45%">
+        <img src="img/Lesson_7.png" width="45%">
     </a>
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_8.pdf?v=20260726">
-        <img src="img/Lesson_8_v2.png" width="45%">
+        <img src="img/Lesson_8.png" width="45%">
     </a>
 </div>
 
 <div align="center">
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_9.pdf?v=20260725">
-        <img src="img/Lesson_9_v2.png" width="45%">
+        <img src="img/Lesson_9.png" width="45%">
     </a>
     <a href="https://almtzr.github.io/PedroSTEM/stem_lessons/Pedro_Lesson_10.pdf?v=20260729">
-        <img src="img/Lesson_10_v1.png" width="45%">
+        <img src="img/Lesson_10.png" width="45%">
     </a>
 </div>
